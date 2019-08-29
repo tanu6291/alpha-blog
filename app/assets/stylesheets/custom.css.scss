@@ -28,6 +28,15 @@ $navbar-default-bg: #eabd65;
 	margin: 20px;
 }
 
+.article-actions {
+	border-top: 1px solid #eaeaea;
+	padding-top: 5px;
+}
+
+.description{
+	margin-top: 0;
+}
+
 .jumbotron {
 	background-image: asset-url('Home_page.jpeg');
 	background-size: cover;
