@@ -23,9 +23,13 @@ $navbar-default-bg: #eabd65;
 	text-align: center;
 }
 
-
 .btn {
 	margin: 20px;
+}
+
+.article-meta-details{
+	border-top: 1px solid #eaeaea;
+	margin-top: 15px;
 }
 
 .article-actions {
@@ -51,7 +55,7 @@ $navbar-default-bg: #eabd65;
 .jumbotron {
 	background-image: asset-url('Home_page.jpeg');
 	background-size: cover;
-	height: 550px;
+	height: 500px;
 }
 
 .jumbotron h1 {
@@ -68,7 +72,7 @@ $navbar-default-bg: #eabd65;
 }
 
 .footer{
-	margin-top: 180px;
+	margin-top: 240px;
 	padding-top: 5px;
 	border-top: 1px solid #eaeaea;
 	color: #777;
